@@ -1,1 +1,3 @@
-# CodingSkills-2
+The Exam Seating Planner is a web-based application designed to automate the process of assigning students to exam halls efficiently. It uses intelligent algorithms like Greedy and Dynamic Programming (DP) to distribute students across rooms while minimizing conflicts, such as placing students from the same department next to each other.
+
+The system allows users to import student data, define room capacities, and generate a complete seating arrangement instantly. It also provides visual layouts and export options like PDF and CSV, making it a practical and time-saving solution for educational institutions
